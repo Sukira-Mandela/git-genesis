@@ -1,2 +1,2 @@
 # git-learning
- Learning to use Git and Github using Github Desktop
+ Learning to use *Git* and *Github* using **Github Desktop**. Hello World!

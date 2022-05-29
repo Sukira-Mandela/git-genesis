@@ -1,0 +1,1 @@
+print('Hoje é um dia de aprendizado')
